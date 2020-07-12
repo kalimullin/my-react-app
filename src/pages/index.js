@@ -9,7 +9,7 @@ const IndexPage = () => (
   <Layout>
     <SEO title="Main" />
     <h1>Learn to design and code React apps</h1>
-    <p>Test message...</p>
+    <p>Another text message...</p>
     <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
       <Image />
     </div>
